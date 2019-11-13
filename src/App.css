@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif !important;
+  font-weight: 300;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* NAVIGATION */
+
+.zero {
+  width: 35%;
+  padding: 1.5rem 0;
+}
+
+.navbar {
+  border-bottom: 0.3px solid #9b9b9b;
+}
+
+.navlink {
+  font-size: 1.4rem;
+}
+
+h1 {
+  margin-top: 3rem;
+  text-align: center;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 3rem;
+  margin: 3rem;
+}
+
+/* DIVIDERS */
+
+.divider {
+  margin-bottom: 8rem;
+}
+
+.resi {
+  border-color: rgba(189, 16, 224);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 10vh;
+}
+
+.comm {
+  border-color: rgba(74, 144, 226);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 15vh;
+}
+
+.indus {
+  border-color: rgba(80, 227, 194);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 20vh;
+}
+
+.amer {
+  border-color: rgba(184, 233, 134);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 25vh;
+}
+
+.asia {
+  border-color: rgba(126, 211, 33);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 30vh;
+}
+
+.midea {
+  border-color: rgba(65, 117, 5);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 45vh;
+}
+
+.pubpol {
+  border-color: rgba(248, 231, 28);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 54vh;
+}
+
+.build {
+  border-color: rgba(245, 166, 35);
+  border-style: solid solid;
+  border-width: 5px 0px 0px 1px;
+  height: 60vh;
+}
+
+p {
+  margin: 0;
+}
+
+.department {
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding-bottom: 1rem;
+}
+
+.leader {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.employees {
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+/* CHART CONTAINERS */
+.main {
+  padding: 3rem 0;
+}
+
+.year {
+  padding: 3rem 0;
+}
+
+.total {
+  padding: 3rem 0;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  font-size: 2rem;
+  padding: 5rem 0;
+}
